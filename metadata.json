@@ -1,0 +1,7 @@
+{
+  "name": "EduTrackr",
+  "description": "A comprehensive mobile-first platform connecting Students, Parents, and Colleges for attendance tracking, study management, and communication.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
